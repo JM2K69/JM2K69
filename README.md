@@ -14,7 +14,7 @@ I am a French Microsoft Certified Trainer an MVP - VMware Trainer I am an author
 ## Statistics
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JM2K69&show_icons=true&theme=transparent))
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JM2K69&show_icons=true&theme=transparent)
 
 <!-- Stats Dashboard -->
 
