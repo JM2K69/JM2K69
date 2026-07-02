@@ -1,61 +1,140 @@
 <h1 align="center">Hi 👋, I'm Jerome Bezet-Torres</h1>
-<h3 align="center">French Microsoft Certified Trainer, MVP, VMware trainer, author at Editions ENI, and IT consultant.</h3>
+<h3 align="center">Microsoft MVP • Microsoft Certified Trainer • Author • IT Consultant</h3>
 
 <p align="center">
-  <em>I build practical solutions around PowerShell, Active Directory, operating system deployment, automation, cybersecurity labs, WPF tooling, and VMware.</em>
+  <em>Active Directory • Cybersecurity • PowerShell • OSD • VMware • Knowledge Sharing</em>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jm2k69&label=Profile%20views&color=0e75b6&style=flat" alt="jm2k69" />
+  <img src="https://img.shields.io/badge/Microsoft-MVP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  <img src="https://img.shields.io/badge/MCT-Microsoft%20Certified%20Trainer-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MCT" />
+  <img src="https://img.shields.io/badge/Focus-Active%20Directory%20%26%20Cybersecurity-red?style=flat-square" alt="Focus Active Directory and Cybersecurity" />
+  <img src="https://img.shields.io/badge/Community-Knowledge%20Sharing-success?style=flat-square" alt="Knowledge Sharing" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jm2k69&theme=flat&margin-w=10&margin-h=10" alt="jm2k69" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jm2k69&theme=flat&no-frame=true&row=1&column=6" alt="jm2k69 trophies" />
   </a>
 </p>
 
-## About me
+---
 
-- 🎓 Microsoft Certified Trainer and community speaker
-- 🏅 MVP with a strong focus on Microsoft, automation, and infrastructure
-- ✍️ Technical author for Editions ENI
-- 🧠 Interests: PowerShell, Active Directory, OSD, WPF, VMware, security labs, and infrastructure automation
-- 🇫🇷 Based in France
+## 🛡️ About me
 
-## What I work on
+I am a French **Microsoft MVP**, **Microsoft Certified Trainer**, **technical author**, and **IT consultant** with a strong focus on:
 
-Across my repositories, my work mainly revolves around:
+- **Active Directory security**
+- **Cybersecurity education and practical labs**
+- **PowerShell automation**
+- **Operating system deployment and infrastructure engineering**
+- **Knowledge sharing through training, writing, and open source**
 
-- **PowerShell tooling and automation** for Windows administration, WPF interfaces, deployment, and reporting
-- **Active Directory and cybersecurity** projects, including attack/defense labs, auditing, hunting, and educational content
-- **OS deployment and lab building** with iPXE, MDT-like workflows, OSD, Packer, Terraform, and Hyper-V/vSphere environments
-- **Documentation and training assets** for DocFX, courses, workshops, and technical guides
-- **Open-source experiments and utilities** around C#, Python, HCL, JavaScript, and infrastructure templates
+My GitHub reflects a mix of **real-world tooling**, **defensive security content**, **lab automation**, and **community-oriented technical sharing**.
 
-## Highlighted repositories
+---
 
-Here are a few repositories that reflect my profile particularly well:
+## 🎯 Core expertise
 
-- **SMAD-X** — C# project with strong community interest
-- **Tiny_iPXE** — iPXE solution for Windows deployment scenarios
-- **MaterialDesign_WPF_Creator** — PowerShell/WPF tooling around Material Design
-- **Powershell_WPF_GUI** — GUI experiments and reusable ideas for PowerShell + WPF
-- **FreeNas** / **TrueNas** — PowerShell modules to interact with NAS platforms
-- **HydrationKit**, **Hydrations-Kit**, **HydrationKitWS2025** — lab and deployment-oriented automation work
-- **ADHD**, **AD-Attack-Defense**, **Windows-authentication-brutforce-cheatsheet** — Active Directory and defensive/offensive security topics
-- **Terraform_vSphere8**, **packer-vsphere**, **photon-packer-templates** — infrastructure as code and VMware automation
-- **MDCC**, **Cybersecurity-jobs-skills-workshop**, **Building-Modern-Active-Directory** — educational and training-focused material
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-Security-darkred?style=for-the-badge" alt="AD Security" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Detection-black?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Automation" />
+  <img src="https://img.shields.io/badge/OSD-Deployment-1F6FEB?style=for-the-badge" alt="OSD Deployment" />
+  <img src="https://img.shields.io/badge/VMware-Infrastructure-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+</p>
 
-## Main themes in my GitHub
+---
 
-```text name=focus-areas.txt
-PowerShell • Active Directory • WPF • VMware • OSD
-Packer • Terraform • Hyper-V • DocFX • Cybersecurity
-Automation • Training • Labs • Windows • Infrastructure
-```
+## 🚀 What you will find in my repositories
 
-## Connect with me
+### 🔐 Active Directory & Cybersecurity
+Projects and content focused on AD hardening, offensive/defensive concepts, auditing, threat analysis, and lab environments.
+
+**Examples:**
+- `ADHD`
+- `AD-Attack-Defense`
+- `Windows-authentication-brutforce-cheatsheet`
+- `Microsoft-eventlog-mindmap`
+- `WAZUH-Sentinel-AD`
+- `The-Hacker-Recipes`
+- `KvcForensic`
+
+### ⚙️ PowerShell Automation & Tooling
+A large part of my work revolves around building automation, admin tools, and WPF-based interfaces with PowerShell.
+
+**Examples:**
+- `PowerRemoteDesktop`
+- `FreeNas`
+- `TrueNas`
+- `PSGPOTools`
+- `Powershell_WPF_GUI`
+- `MaterialDesign_WPF_Creator`
+- `PowershellGalleryStats`
+- `Hello-My-Dir`
+
+### 🖥️ Deployment, Labs & Infrastructure
+I also build and share deployment workflows, OSD experiences, lab templates, and VMware / Packer / Terraform content.
+
+**Examples:**
+- `Tiny_iPXE`
+- `OSD-Wizard-UDI-Replacment`
+- `HydrationKit`
+- `Hydrations-Kit`
+- `HydrationKitWS2025`
+- `Terraform_vSphere8`
+- `packer-vsphere`
+- `photon-packer-templates`
+- `CloudLabsAD`
+
+### 📚 Sharing, Training & Community
+Knowledge sharing is a central part of my work: books, workshops, course material, documentation themes, demos, and community resources.
+
+**Examples:**
+- `MDCC`
+- `Cybersecurity-jobs-skills-workshop`
+- `Building-Modern-Active-Directory`
+- `Practical-Automation-with-PowerShell`
+- `docfx`
+- `docfx-toc-generator`
+- `JM2K69.github.io`
+
+---
+
+## 🌍 MVP & community mindset
+
+Being an **MVP** is not just about expertise — it is also about **sharing**.
+
+I enjoy:
+- writing practical technical content,
+- creating reusable tools for the community,
+- building labs and demos for learning,
+- helping others understand complex Microsoft and infrastructure topics,
+- turning field experience into open knowledge.
+
+If it helps people **learn faster**, **secure better**, or **automate smarter**, it belongs here.
+
+---
+
+## 🧰 Tech themes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Active%20Directory-8B0000?style=flat-square" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square" alt="WPF" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" alt="Packer" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/DocFX-0A0A0A?style=flat-square" alt="DocFX" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+## 🤝 Connect with me
 
 <p align="left">
   <a href="https://twitter.com/jm2k69" target="blank">
@@ -66,7 +145,9 @@ Automation • Training • Labs • Windows • Infrastructure
   </a>
 </p>
 
-## GitHub stats
+---
+
+## 📊 GitHub insights
 
 <p>
   <img align="left" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=jm2k69&show_icons=true&locale=en&layout=compact" alt="jm2k69" />
