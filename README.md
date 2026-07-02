@@ -19,6 +19,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jm2k69/">
+    <img src="https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%B4me%20Bezet--Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/jm2k69">
+    <img src="https://img.shields.io/badge/X-@jm2k69-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://github.com/JM2K69/JM2K69.github.io">
+    <img src="https://img.shields.io/badge/Blog-JM2K69.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://mvp.microsoft.com/">
+    <img src="https://img.shields.io/badge/MVP-Microsoft%20Community-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  </a>
+</p>
+
 ---
 
 ## 🛡️ About me
@@ -130,19 +145,6 @@ If it helps people **learn faster**, **secure better**, or **automate smarter**,
   <img src="https://img.shields.io/badge/DocFX-0A0A0A?style=flat-square" alt="DocFX" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-## 🤝 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/jm2k69" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X / Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jm2k69/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
 </p>
 
 ---
