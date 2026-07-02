@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jm2k69" alt="GitHub Profile Trophy" />
+  <img src="https://img.shields.io/badge/MVP-Microsoft%20Most%20Valuable%20Professional-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  <img src="https://img.shields.io/badge/Speaker-Community%20%26%20Technical%20Sessions-1F6FEB?style=for-the-badge" alt="Speaker" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Active%20Directory%20%26%20Defense-111111?style=for-the-badge" alt="Cybersecurity" />
 </p>
 
 <p align="center">
@@ -47,6 +49,28 @@ My work focuses on turning field experience into **practical tooling**, **techni
 Je suis **Microsoft MVP**, **Microsoft Certified Trainer**, **speaker**, **auteur technique** et **consultant IT** en France, spécialisé en **sécurité Active Directory**, **cybersécurité**, **automatisation PowerShell** et **ingénierie d’infrastructure**.
 
 Mon travail consiste à transformer l’expérience terrain en **outils concrets**, **contenus techniques**, **ressources pédagogiques**, et **projets open source réutilisables**. À travers les conférences, l’écriture, la formation et le partage communautaire, mon objectif est d’aider les professionnels à **mieux sécuriser**, **mieux automatiser** et **mieux comprendre** les environnements Microsoft.
+
+---
+
+## ✨ Featured focus
+
+<table>
+  <tr>
+    <td align="center"><strong>🛡️ Active Directory Security</strong><br/>Hardening, auditing, defense, attack paths, and lab-driven learning.</td>
+    <td align="center"><strong>⚡ PowerShell Automation</strong><br/>Admin tooling, WPF interfaces, automation workflows, and reusable scripts.</td>
+    <td align="center"><strong>🎤 Sharing & Community</strong><br/>Speaking, writing, training, open source, and practical knowledge transfer.</td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Signature domains
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-Identity%20%26%20Security-8B0000?style=for-the-badge" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Detection-111111?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/PowerShell-Automation%20%26%20Tooling-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
 
 ---
 
