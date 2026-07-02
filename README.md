@@ -137,11 +137,11 @@ If it helps people **learn faster**, **secure better**, or **automate smarter**,
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/jm2k69" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jm2k69" height="30" width="40" />
+  <a href="https://twitter.com/jm2k69" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X / Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/jm2k69" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="jm2k69" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/jm2k69/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
