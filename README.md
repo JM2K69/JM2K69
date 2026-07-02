@@ -64,6 +64,19 @@ Mon travail consiste à transformer l’expérience terrain en **outils concrets
 
 ---
 
+## 🌟 Featured projects
+
+| Project | Focus | Highlights |
+| --- | --- | --- |
+| [SMAD-X](https://github.com/JM2K69/SMAD-X) | Active Directory / C# | One of the most visible repositories in the profile, focused on Microsoft and AD-centric tooling. |
+| [Tiny_iPXE](https://github.com/JM2K69/Tiny_iPXE) | Deployment / OSD | Practical iPXE solution for Windows deployment scenarios with strong lab and field value. |
+| [MaterialDesign_WPF_Creator](https://github.com/JM2K69/MaterialDesign_WPF_Creator) | PowerShell / WPF | PowerShell-based WPF tooling showcasing UI engineering and automation craftsmanship. |
+| [ADHD](https://github.com/JM2K69/ADHD) | Active Directory Security | Focused on Active Directory honeypot deployment and fast security-oriented operations. |
+| [WAZUH-Sentinel-AD](https://github.com/JM2K69/WAZUH-Sentinel-AD) | Detection / Blue Team | Detection-oriented work around Wazuh and Active Directory monitoring use cases. |
+| [Terraform_vSphere8](https://github.com/JM2K69/Terraform_vSphere8) | Infrastructure as Code | Practical VMware lab and infrastructure automation with Terraform. |
+
+---
+
 ## 🎯 Signature domains
 
 <p align="center">
