@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerome Bezet-Torres</h1>
-<h3 align="center">Microsoft MVP • Microsoft Certified Trainer • Author • IT Consultant</h3>
+<h3 align="center">Microsoft MVP • Microsoft Certified Trainer • Speaker • Author • IT Consultant</h3>
 
 <p align="center">
   <em>Active Directory • Cybersecurity • PowerShell • OSD • VMware • Knowledge Sharing</em>
@@ -33,6 +33,22 @@
     <img src="https://img.shields.io/badge/MVP-Microsoft%20Community-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
   </a>
 </p>
+
+---
+
+## 🇬🇧 Executive profile
+
+I am a French **Microsoft MVP**, **Microsoft Certified Trainer**, **speaker**, **technical author**, and **IT consultant** specializing in **Active Directory security**, **cybersecurity**, **PowerShell automation**, and **infrastructure engineering**.
+
+My work focuses on turning field experience into **practical tooling**, **technical education**, **defensive security content**, and **reusable community resources**. Through speaking, writing, training, and open source contributions, I aim to help professionals **secure better**, **automate faster**, and **learn from real-world scenarios**.
+
+---
+
+## 🇫🇷 Profil exécutif
+
+Je suis **Microsoft MVP**, **Microsoft Certified Trainer**, **speaker**, **auteur technique** et **consultant IT** en France, spécialisé en **sécurité Active Directory**, **cybersécurité**, **automatisation PowerShell** et **ingénierie d’infrastructure**.
+
+Mon travail consiste à transformer l’expérience terrain en **outils concrets**, **contenus techniques**, **ressources pédagogiques**, et **projets open source réutilisables**. À travers les conférences, l’écriture, la formation et le partage communautaire, mon objectif est d’aider les professionnels à **mieux sécuriser**, **mieux automatiser** et **mieux comprendre** les environnements Microsoft.
 
 ---
 
